@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "groups"
+echo "sudo chown betty hello"
